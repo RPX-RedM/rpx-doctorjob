@@ -1,5 +1,3 @@
-
-
 local dragStatus = { isDragged = false }
 local DoctorBlips = {}
 
